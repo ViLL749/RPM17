@@ -1,6 +1,8 @@
 from tkinter import *
 root = Tk()
-root.title("Simple")
+root.title("Мото-мото")
+
+type(root)
 root.geometry("500x500")
 
 

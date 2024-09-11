@@ -13,7 +13,7 @@ def move(event):
         canvas.move("hippo", 10, 0)   # Вправо
 
 root = Tk()
-root.title("Simple")
+root.title("Мото-мото")
 root.geometry("500x500")
 
 canvas = Canvas(root, height=500, width=500)
